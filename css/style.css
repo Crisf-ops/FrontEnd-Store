@@ -219,8 +219,9 @@ h3{
     border-width: 1rem;
     border-style: solid; */
 
-/*esto remplasa a lo de arriba, 1 Tamaño 2 Estilo(tipo de border), 3Color*/
+/*esto remplasa a lo de arriba, 1 Tamaño, 2 Estilo(tipo de border), 3Color*/
     border: 1rem solid var(--primarioOscuro);
+    /*****************************************************/
     background-color: transparent;
     color: var(--blaco);
     border-radius: 1rem;
